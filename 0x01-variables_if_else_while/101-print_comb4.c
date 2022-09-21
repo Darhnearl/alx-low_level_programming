@@ -2,7 +2,7 @@
 /**
  * main -Entry point
  * Return: Always 0 (Success)
- * */
+ */
 int main(void)
 {
 	int n;
@@ -24,8 +24,7 @@ putchar(',');
 putchar(32);
 }
 i++;
-}
-while (i != 10);
+} while (i != 10);
 }
 }
 putchar('\n');
