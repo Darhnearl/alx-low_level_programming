@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	time_teble();
-	return(0);
+times_table();
+return(0);
 }
