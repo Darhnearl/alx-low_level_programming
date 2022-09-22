@@ -6,7 +6,6 @@
 int main(void)
 {
 	char dan[] = "_putchar";
-
 	int c;
 	
 	for (c = 0; c < 8; c++)
