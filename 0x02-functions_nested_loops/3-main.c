@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * main - print 10 times the alphabet.
+ * main - check for lower cases.
  * Return: Always 0.
  */
 
 int main(void)
 {
-print_alphabet_x10();
+print_islower();
 return (0);
 }
